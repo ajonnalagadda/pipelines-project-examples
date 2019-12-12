@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: helloworld   # replace with your integration
-      path: pipelines-project-examples/app    # replace with your repository name
+      path: ajonnalagadda/pipelines-project-examples  # replace with your repository name
       branches:
         include: master
 
