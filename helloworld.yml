@@ -1,4 +1,3 @@
-
 resources:
   - name: myApprepo1
     type: GitRepo
